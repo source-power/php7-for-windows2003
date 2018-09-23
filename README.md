@@ -56,3 +56,8 @@ PHP 5.6：系统必须装有 IE8 和 [VC11 运行时库](http://www.microsoft.co
 ## 出处
 
 http://www.lindasc.com/php/
+
+
+## 相关项目
+
+https://github.com/fork-copy/php-5.6-xp-2003
